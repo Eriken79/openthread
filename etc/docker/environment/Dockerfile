@@ -1,5 +1,5 @@
 # Ubuntu image with tools required to build OpenThread
-FROM ubuntu:22.04
+FROM ubuntu:kinetic
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV LANG en_US.UTF-8
